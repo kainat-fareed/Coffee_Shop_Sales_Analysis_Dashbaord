@@ -1,9 +1,9 @@
 # Coffee_Shop_Sales_Analysis_Dashbaord
 
-# Objective:
+# Objective
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the perfromance of the coffee shop
 
-# Questions:
+# Questions
 - How do sales vary by day of the week and hour of the day?
 - Are there any peak times for sales activity?
 - What is the toal sales revenue for each month?
