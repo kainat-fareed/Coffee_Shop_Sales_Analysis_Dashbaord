@@ -1,4 +1,4 @@
-# Coffee_Shop_Sales_Analysis_Dashbaord
+# Coffee_Shop_Sales_Analysis
 
 # Objective
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the perfromance of the coffee shop
